@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "learn jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenashcherbinina/hexlet-jest.git"
+  },
+  "author": "elena Shcherbinina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenashcherbinina/hexlet-jest/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/elenashcherbinina/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
